@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pythonlord2099
+- 👋 Hi, I’m Tharindu Priyadarshana Dalugoda
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning basics of coding
 
