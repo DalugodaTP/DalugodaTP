@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning<br>👯 I’m looking to for DevOps<br>🤝 I’m looking for help with preparation for Interviews<br>🌱 I’m currently learning React and Express.js
+🔭 I’m currently working on Machine Learning<br>👯 I’m looking to be a Software Engineer<br>🤝 I’m looking for help with preparation for Interviews<br>🌱 I’m currently learning React and Express.js
 
 
 ## 🌐 Socials:
