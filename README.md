@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning<br>👯 I’m looking to be a Software Engineer<br>🤝 I’m looking for help with preparation for Interviews<br>🌱 I’m currently learning React and Express.js
+🔭 I’m currently working as a Software Enginner at Tecciance (Pvt) Ltd<br>👯 I’m in telco domain<br>🌱 I’m currently learning nextJs, Springboot, and AWS 
 
 
 ## 🌐 Socials:
