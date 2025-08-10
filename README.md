@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a freelance Software Enginner <br>👯 I’m in telco domain<br>🌱 I’m currently learning nextJs, Springboot, and AWS 
+🔭 I’m currently working as a Software Enginner at Tecciance (Pvt) Ltd<br>👯 I’m in telco domain<br>🌱 I’m currently learning nextJs, Springboot, and AWS 
 
 
 ## 🌐 Socials:
